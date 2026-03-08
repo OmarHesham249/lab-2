@@ -88,7 +88,3 @@ git push origin --delete v1.7
 7. Adding Image to README
    
 ![Image](https://github.com/OmarHesham249/lab-2/blob/main/Image/627fa25ae195ca005f2e20c3-1733279978117.jpeg)
-
-Example:
-
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
