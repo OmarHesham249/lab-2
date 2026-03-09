@@ -11,7 +11,7 @@ git init
 ```
 Create a README file and commit it:
 ```bash
-echo "# Lab2 Git Practice" >> README.md
+echo "Test" >> README.md
 git add .
 git commit -m "initial commit"
 ```
